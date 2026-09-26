@@ -35,23 +35,12 @@
 ## Технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,webpack,tailwind,docker,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,vite,webpack,tailwind,docker,git,figma" />
 </p>
 
 ### Также использую
 
 `TanStack Query` · `RTK Query` · `Ant Design` · `Mantine UI` · `Yup` · `Zod` · `Feature-Sliced Design`
-
-## GitHub-статистика
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&locale=ru" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&locale=ru" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&locale=ru" />
-</p>
 
 ---
 
